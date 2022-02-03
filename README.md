@@ -3,7 +3,7 @@
 - 🖥 I'm actively-seeking full-time opportunities for Data Analyst/Data Scientist roles from June 2022
 - 🌱 I’m currently working on 911 incidents response rates in Buffalo, NY
 - 💞️ I’m looking to collaborate on Kaggle Competitions and ML projects
-- 📫 How to reach me: Phone: 7167309191, Mail: nishitchaudhry@gmail.com, nishitch@buffalo.edu
+- 📫 How to reach me: Phone: +17167309191, Mail: nishitchaudhry@gmail.com, nishitch@buffalo.edu
 
 <!---
 nishitchaudhry/nishitchaudhry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
