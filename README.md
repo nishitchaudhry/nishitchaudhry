@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Nishit Chaudhry, currently pursuing Master of Science in Management Information Systems (Data Analytics) at the State University of New York at Buffalo, US
-- 👀 I have two years of experience as a Data Science Professional (Data Scientist/Programmer Analyst)
-- 🖥 I'm actively seeking full-time opportunities for Data Analyst/Data Scientist roles from June 2022 in the US
+- 👋 Hi, I’m Nishit Chaudhry, currently working at Ernst & Young in NYC, US as a Data Scientist in the FSO - AI & Data practice.
+- I have pursued Master of Science in Information Systems (Data Science) at the State University of New York at Buffalo, USA.
+- 👀 I have over five years of experience as a Data Scientist/Engineer
+- 🖥 I'm actively seeking full-time opportunities in AI and Data.
 - 🌱 I’m currently working on:
-    1. Social Listening project for University at Buffalo Marketing team on Twitter and Reddit platforms (NLP based Topic Modeling, N-grams, Word clouds)
+    1. Learning and building AI projects in Agentic AI, Generative AI and RAG
 - 📫 How to reach me: Phone: +1(716)-730-9191, Mail: nishitchaudhry@gmail.com, nishitch@buffalo.edu
 
 <!---
